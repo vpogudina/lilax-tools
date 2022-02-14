@@ -1,0 +1,11 @@
+.downloadBtn {
+    margin: 20px 20px;
+    padding: 10px;
+    background-color: rgb(135, 216, 236);
+    min-height: 100px;
+    min-width: 200px;
+    border-radius: 30px;
+    border: solid 2px  rgb(84, 158, 177);
+    font-family: Helvetica, sans-serif;
+    font-size: medium;
+}
